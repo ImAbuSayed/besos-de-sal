@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-de-sal/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Besos de sal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-sal/) |
+| **Get License** | [Commercial Licensing for Besos de sal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-sal/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus besos de sal me saben a la eternidad
+> Haciendo el amor en medio de la ciudad
+> Tú y yo esta noche, no existe la gravedad
+> You got me falling, mi niña, qué barbaridad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
