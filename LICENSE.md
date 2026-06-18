@@ -1,6 +1,6 @@
 # License
 
-**Besos de sal**
+**Besos de sal, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 

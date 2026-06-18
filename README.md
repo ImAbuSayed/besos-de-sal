@@ -1,4 +1,4 @@
-# Besos de sal
+# Besos de sal, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Besos de sal |
+| **Title** | Besos de sal, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-de-sal/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Besos de sal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-sal/) |
+| **Get License** | [Request Licensing for Besos de sal, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-sal/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fdc3b74ee01967103efc773a0080a742bbca9370e2c80e51ee2fa7177e60ecc3` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
